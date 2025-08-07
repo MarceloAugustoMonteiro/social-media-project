@@ -1,3 +1,11 @@
+# social-media-project <br>
+Study project in Next.js – Social network for dogs 
+<br> <br>
+Username: dog | Password: dog
+<br>
+Link: https://social-media-project-teal.vercel.app
+<br> <br>
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
